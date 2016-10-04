@@ -1,39 +1,3 @@
-<<<<<<< HEAD
-Datafile Name: DRP Scores
-Datafile Subjects: Education , Social science
-Story Names: Improving Reading Ability
-Reference: Moore, David S., and George P. McCabe (1989). Introduction to the Practice of Statistics. Original source: Schmitt, Maribeth C., The Effects on an Elaborated Directed Reading Activity on the Metacomprehension Skills of Third Graders, Ph.D. dissertaion, Purdue University, 1987.
-Authorization:
-Description: Results of an experiment to test whether directed reading activities in the classroom help elementary school students improve aspects of their reading ability. A treatment class of 21 third-grade students participated in these activities for eight weeks, and a control class of 23 third-graders followed the same curriculum without the activities. After the eight-week period, students in both classes took a Degree of Reading Power (DRP) test which measures the aspects of reading ability that the treatment is designed to improve.
-Number of cases: 44
-Variable Names:
-Treatment: Whether student participated in activities (treated) or not (control)
-Response: Score on Degree of Reading Power test
-The Data:
-=======
-# Reference: Moore, David S., and George P. McCabe
-#  (1989). Introduction to the Practice of Statistics. Original source:
-#  Schmitt, Maribeth C., The Effects on an Elaborated Directed Reading
-#  Activity on the Metacomprehension Skills of Third Graders,
-#  Ph.D. dissertaion, Purdue University, 1987.
-
-# Description: Results of an experiment to test whether directed
-# reading activities in the classroom help elementary school students
-# improve aspects of their reading ability. A treatment class of 21
-# third-grade students participated in these activities for eight weeks,
-# and a control class of 23 third-graders followed the same curriculum
-# without the activities. After the eight-week period, students in both
-# classes took a Degree of Reading Power (DRP) test which measures the
-# aspects of reading ability that the treatment is designed to improve.
-
-# Variable Names: 
-
-# Treatment: Whether student participated in activities (treated) or
-  not (control)
-
-# Response: Score on Degree of Reading Power test
-
->>>>>>> c5a48a91f198bd68f49f7ed53f826e72c54bac17
 Treatment	Response
 Treated	24
 Treated	43
