@@ -4,7 +4,7 @@ ThinkBayes2
 This repository is what I use to do my assignments for Computational Bayesian Statistics tought by Allen Downey.
 
 Links to my interesting work:  
-The most interesting report is report04
+The most interesting report is report04  
 [Final Project](https://www.google.com)  
 [Report 01](https://github.com/NathanYee/ThinkBayes2/blob/master/code/report01.ipynb)  
 [Report 02](https://github.com/NathanYee/ThinkBayes2/blob/master/code/report02.ipynb)  
