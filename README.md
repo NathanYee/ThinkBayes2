@@ -1,7 +1,7 @@
 ThinkBayes2
 ===========
 
-This repository is what I use to do my assignments for Computational Bayesian Statistics tought by Allen Downey.
+This repository is what I use to do my assignments for Computational Bayesian Statistics taught by Allen Downey.
 
 Links to my interesting work:  
 The most interesting report is report04  
